@@ -11,4 +11,4 @@ pip install pygame
 
 ![image](https://wx16.oss-cn-qingdao.aliyuncs.com/v7/QQ20220805-0.png)
 
-![image](https://wx16.oss-cn-qingdao.aliyuncs.com/v7/QQ20220805-0.png)](https://wx16.oss-cn-qingdao.aliyuncs.com/v7/BF767C0B-3733-4038-BBAF-C7F6E0EEA90E.png)
+![image](https://wx16.oss-cn-qingdao.aliyuncs.com/v7/BF767C0B-3733-4038-BBAF-C7F6E0EEA90E.png)
